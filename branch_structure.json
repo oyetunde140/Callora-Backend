@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/871-webhook-openapi-examples",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/871-webhook-openapi-examples": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/871-webhook-openapi-examples",
+    "origin"
+  ]
+}
